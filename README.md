@@ -1,3 +1,3 @@
 # Trabajo-2
 
-eeee
+Aqui se encuentran los còdigos que usamos mis compañeros y yo para llevar a cabo el trabajo
